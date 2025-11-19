@@ -15,12 +15,12 @@ Proyecto realizado por **Grupo Pixel Play** para la asignatura *Prácticas Profe
 ---
 
 ## Demo Online  
-**link gitpage**
+**https://bugn92.github.io/PixelPlay.entregafinal/#/**
 
 ---
 
 ##  Repositorio  
-**repositorio de GitHub**
+**https://github.com/BUGn92/PixelPlay.entregafinal.git**
 
 ---
 
@@ -128,7 +128,7 @@ GitHub Pages
 
 1) clonar repositorio de github
 
-git clone https://github.com/usuario/pixelplay.git
+git clone https://github.com/BUGn92/PixelPlay.entregafinal.git
 cd pixelplay
 
 2) instalar dependencias
